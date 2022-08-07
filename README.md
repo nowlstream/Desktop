@@ -1,4 +1,4 @@
-<h1 align="center">Desktop App Of <a href="https://github.com/WebScreenRecorder/WebScreenRecorder.github.io">WebScreenRecorder</a></h1>
+<h1 align="center">Desktop App Of Nowl</h1>
 
 <p align="center">Record Your Screen!!</p>
 
